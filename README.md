@@ -29,15 +29,6 @@ Step 8: Save and run the application.
 
 
 ## Program:
- ```
-/*
-Program to print the contact details by creating own content providers in Android Studio
-Developed by: Shaik Shoaib Nawaz
-RegisterNumber: 212222240094 
-*/
-
-```
-
 ### MainActivity.java:
 ```
 package com.example.exp4;
